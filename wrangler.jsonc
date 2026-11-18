@@ -1,0 +1,7 @@
+{
+  "name": "sentoria",
+  "pages_build_output_dir": "./public",
+  "compatibility_date": "2026-11-01",
+  "d1_databases": [{"binding":"DB","database_name":"sentoria-db","database_id":"217e368f-a9cf-4fc4-8662-3540a59115a2"}],
+  "vars": {"SITE_URL":"https://sentoria-e44.pages.dev","PAYMENTS_ENABLED":"false","STORE_ENABLED":"false","SHIPPING_HOME_CENTS":"650","SHIPPING_PICKUP_CENTS":"350"}
+}

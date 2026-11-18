@@ -1,0 +1,7 @@
+ADMIN_EMAIL="your-private-email@example.com"
+ADMIN_OTP_SECRET="a-long-random-64-character-secret"
+RESEND_API_KEY="re_xxx"
+MAIL_FROM="Sentoria <commande@your-domain.be>"
+CONTACT_EMAIL="contact@your-domain.be"
+STRIPE_SECRET_KEY="sk_test_xxx"
+STRIPE_WEBHOOK_SECRET="whsec_xxx"
